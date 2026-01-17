@@ -106,6 +106,15 @@ Atuo principalmente com **Python**, mas também tenho experiência sólida com *
 
 ---
 
+## 🔥 Atividade no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataassis&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nataassis&theme=dracula)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nataassis&theme=dracula)
+
+
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nataassis&theme=dracula&no-frame=true&row=1&column=6)
