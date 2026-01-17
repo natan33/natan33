@@ -108,20 +108,20 @@ Atuo principalmente com **Python**, mas também tenho experiência sólida com *
 
 ## 🔥 Atividade no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataassis&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natan33&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nataassis&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=natan33&theme=dracula)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nataassis&theme=dracula)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=natan33&theme=dracula)
 
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nataassis&theme=dracula&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=natan33&theme=dracula&no-frame=true&row=1&column=6)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Natã GitHub stats](https://github-readme-stats.vercel.app/api?username=nataassis&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataassis&layout=compact&theme=dracula)
+![Natã GitHub stats](https://github-readme-stats.vercel.app/api?username=natan33&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natan33&layout=compact&theme=dracula)
